@@ -66,7 +66,7 @@ def main_screen():
 
 
     # Set the icon for the window
-    screen.iconbitmap(r"C:\Users\saikr\AppData\Local\Programs\Python\Python311\icon1.ico")
+    screen.iconbitmap(r"icon1.ico")
 
 
     def reset():
